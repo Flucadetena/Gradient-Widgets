@@ -85,7 +85,6 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          brightness: Brightness.light,
           backgroundColor: Colors.transparent,
           centerTitle: true,
           elevation: 0,
